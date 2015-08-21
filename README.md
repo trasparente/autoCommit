@@ -6,7 +6,7 @@ autoCommit from GitHub Pages with [personal token](https://help.github.com/artic
 ## Usage
 
 1. Fork this repository.
-2. Make a commit to build gh-pages (for example modify this [README.md](../../edit/gh-pages/README.md)).
+2. Make a commit to build gh-pages (for example modify this [README.md](../../edit/gh-pages/README.md)). OK
 3. Create a [personal token](https://github.com/settings/tokens) and copy it.
 4. Head to `YOUR_USERNAME.github.io/autoCommit` and paste the token.
 5. Now you can commit to [master/LOG.md](../master/LOG.md) from the same page.
